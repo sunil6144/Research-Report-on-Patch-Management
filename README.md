@@ -48,7 +48,7 @@ Automated patch management increases deployment speed by 70%, while manual proce
 Effective patch management is essential for cybersecurity, mitigating risks from unpatched vulnerabilities. Regular updates, strategic implementation, and robust documentation are key to safeguarding systems. Organizations neglecting this face severe consequences, as evidenced by real-world incidents.
 
 ## Author
-- Prepared by: [Your Name]
+- Prepared by: sunil singh
 - Date: July 10, 2025
 
 ## License
